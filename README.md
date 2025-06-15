@@ -90,8 +90,8 @@ A powerful multi-language academic note-taking application with advanced Indic N
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd bhasha-notemaker
+   git clone https://github.com/PranavPW/Bhasha-NoteMaker.git
+   cd Bhasha-NoteMaker
    ```
 
 2. **Install dependencies**
@@ -311,4 +311,4 @@ For questions, issues, or contributions:
 
 ---
 
-**Bhasha-NoteMaker** - Empowering multilingual academic writing with intelligent language processing! 🚀📚
+**Bhasha-NoteMaker is a product by PWlabs.**
