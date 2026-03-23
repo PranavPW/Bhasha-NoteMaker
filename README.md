@@ -1,4 +1,5 @@
 # Bhasha-NoteMaker 📝
+# भाषा-नोटमेकर 📝
 
 A powerful multi-language academic note-taking application with advanced Indic NLP capabilities, mathematical notation support, and intelligent virtual keyboard.
 
@@ -311,4 +312,4 @@ For questions, issues, or contributions:
 
 ---
 
-**Bhasha-NoteMaker is a product by PWlabs.**
+**Bhasha-NoteMaker is a product by PWlabs.
